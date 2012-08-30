@@ -1,0 +1,4 @@
+icanhaztimestamp
+================
+
+returns a timestamp
